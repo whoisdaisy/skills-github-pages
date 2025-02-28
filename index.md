@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog wid
+title: Welcome to my WiD
 ---
-WID
+
+Who is Daisy?
